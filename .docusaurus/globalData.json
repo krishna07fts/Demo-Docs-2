@@ -1,0 +1,88 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/Demo-Docs-2/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/Demo-Docs-2/docs",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "intro",
+              "path": "/Demo-Docs-2/docs/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-basics/congratulations",
+              "path": "/Demo-Docs-2/docs/tutorial-basics/congratulations",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-basics/create-a-blog-post",
+              "path": "/Demo-Docs-2/docs/tutorial-basics/create-a-blog-post",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-basics/create-a-document",
+              "path": "/Demo-Docs-2/docs/tutorial-basics/create-a-document",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-basics/create-a-page",
+              "path": "/Demo-Docs-2/docs/tutorial-basics/create-a-page",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-basics/deploy-your-site",
+              "path": "/Demo-Docs-2/docs/tutorial-basics/deploy-your-site",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-basics/intro",
+              "path": "/Demo-Docs-2/docs/tutorial-basics/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-basics/markdown-features",
+              "path": "/Demo-Docs-2/docs/tutorial-basics/markdown-features",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-extras/manage-docs-versions",
+              "path": "/Demo-Docs-2/docs/tutorial-extras/manage-docs-versions",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-extras/translate-your-site",
+              "path": "/Demo-Docs-2/docs/tutorial-extras/translate-your-site",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/tutorial---basics",
+              "path": "/Demo-Docs-2/docs/category/tutorial---basics",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/tutorial---extras",
+              "path": "/Demo-Docs-2/docs/category/tutorial---extras",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/Demo-Docs-2/docs/intro",
+                "label": "intro"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}
