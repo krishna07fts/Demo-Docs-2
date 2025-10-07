@@ -1,8 +1,8 @@
 {
   "label": "Lodging",
-  "position": 1,
+  "position": 2,
   "link": {
     "type": "generated-index",
-    "description": "Learn about Arco HRM Lodging full workflow concepts."
+    "description": "Learn about Arco Lodging full workflow concepts."
   }
 }
