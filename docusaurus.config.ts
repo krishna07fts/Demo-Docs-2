@@ -90,6 +90,7 @@ const config: Config = {
           label: 'Docs',
         },
         // {to: '/blog', label: 'Blog', position: 'left'},
+        {to: '/about', label: 'About Us', position: 'left'},
         {
           href: 'https://github.com/facebook/docusaurus',
           label: 'GitHub',
